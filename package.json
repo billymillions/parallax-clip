@@ -1,0 +1,13 @@
+{
+  "name": "parallax-clip",
+  "version": "1.0.0",
+  "description": "",
+  "dependencies": {
+    "polygon-clipping": "^0.15.1"
+  },
+  "scripts": {
+    "build": "esbuild --bundle --minify src/index.ts > dist/index.js"
+  },
+  "author": "William Schwarzenbach",
+  "license": "MIT"
+}

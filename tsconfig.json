@@ -1,0 +1,13 @@
+{
+  "compilerOptions": {
+    "module": "commonjs",
+    "target": "ES5",
+    "moduleResolution": "node",
+    "removeComments": true,
+    "preserveConstEnums": true,
+    "outDir": "./dist",
+    "sourceRoot": "./src/",
+    "rootDir": "./src/",
+    "sourceMap": true
+  }
+}
